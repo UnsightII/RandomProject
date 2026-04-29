@@ -1,0 +1,50 @@
+index.html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Simple Landing Page</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <header>
+    <nav>
+      <h1 class="logo">MySite</h1>
+      <ul>
+        <li><a href="#">Home</a></li>
+        <li><a href="#">Features</a></li>
+        <li><a href="#">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <section class="hero">
+    <div class="hero-content">
+      <h2>Welcome to My Landing Page</h2>
+      <p>Simple, clean, and responsive design.</p>
+      <button>Get Started</button>
+    </div>
+  </section>
+
+  <section class="features">
+    <div class="card">
+      <h3>Fast</h3>
+      <p>Lightweight and quick loading.</p>
+    </div>
+    <div class="card">
+      <h3>Responsive</h3>
+      <p>Works on all devices.</p>
+    </div>
+    <div class="card">
+      <h3>Easy</h3>
+      <p>Simple to customize and use.</p>
+    </div>
+  </section>
+
+  <footer>
+    <p>© 2026 MySite</p>
+  </footer>
+
+</body>
+</html>
